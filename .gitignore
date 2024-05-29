@@ -1,2 +1,7 @@
 node_modules/
 _site/
+# Ignore Emacs temporary files
+*#
+.*#
+\#*#
+*\~  # Ignore files ending with a tilde, another common Emacs temp file pattern
