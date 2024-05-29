@@ -1,0 +1,639 @@
+[
+  {
+    "id": "aristotleNicomacheanEthics1987",
+    "author": [
+      {
+        "literal": "Aristotle"
+      },
+      {
+        "family": "Crisp",
+        "given": "Roger"
+      }
+    ],
+    "citation-key": "aristotleNicomacheanEthics1987",
+    "ISBN": "978-0-87975-378-8",
+    "issued": {
+      "date-parts": [
+        [
+          "1987",
+          12
+        ]
+      ]
+    },
+    "publisher": "Prometheus Books",
+    "title": "Nicomachean Ethics",
+    "type": "book",
+    "volume": "1",
+    "citekey": "aristotleNicomacheanEthics1987",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "aristotleOrganon1938",
+    "author": [
+      {
+        "literal": "Aristotle"
+      },
+      {
+        "family": "Page",
+        "given": "T. E."
+      },
+      {
+        "family": "Capps",
+        "given": "E."
+      },
+      {
+        "family": "Rouse",
+        "given": "W. H. D."
+      },
+      {
+        "family": "Post",
+        "given": "L. A."
+      },
+      {
+        "family": "Warmington",
+        "given": "E. H."
+      }
+    ],
+    "citation-key": "aristotleOrganon1938",
+    "collection-title": "Loeb Classical Library",
+    "issued": {
+      "date-parts": [
+        [
+          "1938"
+        ]
+      ]
+    },
+    "publisher": "Harvard University Press",
+    "title": "Organon",
+    "type": "book",
+    "volume": "1",
+    "citekey": "aristotleOrganon1938",
+    "tracker_progress": 21,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "EdmundHusserlDorionCairnson128",
+    "author": [
+      {
+        "family": "Husserl",
+        "given": "Edmund"
+      },
+      {
+        "family": "Cairnson",
+        "given": "Dorion"
+      }
+    ],
+    "citation-key": "EdmundHusserlDorionCairnson128",
+    "issued": {
+      "date-parts": [
+        [
+          "101",
+          1
+        ]
+      ]
+    },
+    "publisher": "Martinus Nijhoff",
+    "title": "Cartesian Meditations: An Introduction to Phenomenology",
+    "type": "book",
+    "volume": "1",
+    "citekey": "EdmundHusserlDorionCairnson128",
+    "tracker_progress": 17,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "FranzBrentano151",
+    "author": [
+      {
+        "family": "Brentano",
+        "given": "Franz"
+      }
+    ],
+    "citation-key": "FranzBrentano151",
+    "ISBN": "978-0-520-04420-3",
+    "issued": {
+      "date-parts": [
+        [
+          "1975",
+          1
+        ]
+      ]
+    },
+    "publisher": "University of California Press",
+    "title": "On the Several Senses of Being in Aristotle",
+    "type": "book",
+    "volume": "1",
+    "citekey": "FranzBrentano151",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "gabbayLogicHistoryIts2012",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          29
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Gabbay",
+        "given": "Dov M."
+      },
+      {
+        "family": "Pelletier",
+        "given": "Francis Jeffry"
+      },
+      {
+        "family": "Woods (eds.)",
+        "given": "John"
+      }
+    ],
+    "citation-key": "gabbayLogicHistoryIts2012",
+    "collection-title": "Handbook of the History of Logic",
+    "ISBN": "978-0-444-52937-4",
+    "issued": {
+      "date-parts": [
+        [
+          "2012"
+        ]
+      ]
+    },
+    "publisher": "Elsevier",
+    "source": "Library Genesis",
+    "title": "Logic: A History of its Central Concepts",
+    "title-short": "Handbook of the History of Logic. Volume 11",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=f0cc94218f76eef6d299ced09ff618d9",
+    "volume": "11",
+    "citekey": "gabbayLogicHistoryIts2012",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "harrisHumeIntellectualBiography2015a",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          29
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Harris",
+        "given": "James A."
+      }
+    ],
+    "citation-key": "harrisHumeIntellectualBiography2015a",
+    "ISBN": "978-0-521-83725-5",
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    },
+    "publisher": "Cambridge University Press",
+    "source": "Library Genesis",
+    "title": "Hume: An Intellectual Biography",
+    "title-short": "Hume",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=308fbd4535975f59cba47027b5639f5c",
+    "citekey": "harrisHumeIntellectualBiography2015a",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "lugtDarkMattersPessimism2021",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          29
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lugt",
+        "given": "Mara",
+        "dropping-particle": "van der"
+      }
+    ],
+    "citation-key": "lugtDarkMattersPessimism2021",
+    "ISBN": "978-0-691-20662-2",
+    "issued": {
+      "date-parts": [
+        [
+          "2021"
+        ]
+      ]
+    },
+    "publisher": "Princeton University Press",
+    "source": "Library Genesis",
+    "title": "Dark Matters: Pessimism and the Problem of Suffering",
+    "title-short": "Dark Matters",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=D6F067DC6E2637C6ABA83FDA5AEE0BF8",
+    "citekey": "lugtDarkMattersPessimism2021",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "polyaHowSolveIt1954",
+    "author": [
+      {
+        "family": "Pólya",
+        "given": "George"
+      }
+    ],
+    "citation-key": "polyaHowSolveIt1954",
+    "ISBN": "978-0-691-16407-6",
+    "issued": {
+      "date-parts": [
+        [
+          "1954"
+        ]
+      ]
+    },
+    "publisher": "Princeton University Press",
+    "title": "How to Solve It: A New Aspect of Mathematical Method",
+    "type": "book",
+    "citekey": "polyaHowSolveIt1954",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "safranskiMartinHeideggerGood1998",
+    "author": [
+      {
+        "family": "Safranski",
+        "given": "Rüdiger"
+      }
+    ],
+    "citation-key": "safranskiMartinHeideggerGood1998",
+    "ISBN": "978-0-674-38710-2",
+    "issued": {
+      "date-parts": [
+        [
+          "1998",
+          12
+        ]
+      ]
+    },
+    "publisher": "Harvard University Press",
+    "title": "Martin Heidegger: Between Good and Evil",
+    "type": "book",
+    "volume": "1",
+    "citekey": "safranskiMartinHeideggerGood1998",
+    "tracker_progress": 19,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "berkFundamentalsCorporateFinance2022",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          29
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Berk",
+        "given": "Jonathan"
+      },
+      {
+        "family": "DeMarzo",
+        "given": "Peter"
+      },
+      {
+        "family": "Harford",
+        "given": "Jarrad"
+      }
+    ],
+    "citation-key": "berkFundamentalsCorporateFinance2022",
+    "edition": "5 Global",
+    "ISBN": "978-1-292-43715-6",
+    "issued": {
+      "date-parts": [
+        [
+          "2022"
+        ]
+      ]
+    },
+    "publisher": "Pearson",
+    "source": "Library Genesis",
+    "title": "Fundamentals of Corporate Finance,",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=790AACE82FC99E4812D5A732B0B80032",
+    "citekey": "berkFundamentalsCorporateFinance2022",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Investment"
+    ]
+  },
+  {
+    "id": "grahamIntelligentInvestorDefinitive2003",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Graham",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Zweig",
+        "given": "Jason"
+      }
+    ],
+    "citation-key": "grahamIntelligentInvestorDefinitive2003",
+    "edition": "Revised",
+    "ISBN": "978-0-06-055566-5",
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ]
+    },
+    "publisher": "HarperCollins",
+    "source": "Library Genesis",
+    "title": "The Intelligent Investor: The Definitive Book On Value Investing, Revised Edition",
+    "title-short": "The Intelligent Investor",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=5ee6306ce4baabf0e60a848103ee307c",
+    "citekey": "grahamIntelligentInvestorDefinitive2003",
+    "tracker_progress": 35,
+    "tracker_published": true,
+    "collection": [
+      "Grindset",
+      "Grindset/Investment"
+    ]
+  },
+  {
+    "id": "grahamSecurityAnalysisSeventh2023",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          15
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Graham",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Dodd",
+        "given": "David"
+      },
+      {
+        "family": "Klarman",
+        "given": "Seth A."
+      }
+    ],
+    "citation-key": "grahamSecurityAnalysisSeventh2023",
+    "edition": "7",
+    "ISBN": "978-1-264-93240-5",
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    },
+    "publisher": "McGraw Hill",
+    "source": "Library Genesis",
+    "title": "Security Analysis, Seventh Edition: Principles and Techniques",
+    "title-short": "Security Analysis, Seventh Edition",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=7D9955425485C25C5F5D59DA79B94B58",
+    "citekey": "grahamSecurityAnalysisSeventh2023",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Investment"
+    ]
+  },
+  {
+    "id": "hullOptionsFuturesOther2021",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Hull",
+        "given": "John"
+      }
+    ],
+    "citation-key": "hullOptionsFuturesOther2021",
+    "edition": "11",
+    "ISBN": "978-1-292-41065-4",
+    "issued": {
+      "date-parts": [
+        [
+          "2021"
+        ]
+      ]
+    },
+    "publisher": "Pearson",
+    "source": "Library Genesis",
+    "title": "Options, Futures, and Other Derivatives, Global Edition",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=68BB8FE9D37D09DBFFBA9FC002423AAA",
+    "citekey": "hullOptionsFuturesOther2021",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Investment"
+    ]
+  },
+  {
+    "id": "mcdonaldDerivativesMarkets2013",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          29
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "McDonald",
+        "given": "Robert L"
+      }
+    ],
+    "citation-key": "mcdonaldDerivativesMarkets2013",
+    "collection-title": "Addison-Wesley Series in Finance",
+    "edition": "3. ed., international ed",
+    "ISBN": "978-1-292-02125-6",
+    "issued": {
+      "date-parts": [
+        [
+          "2013"
+        ]
+      ]
+    },
+    "publisher": "Pearson Education Limited",
+    "source": "Library Genesis",
+    "title": "Derivatives Markets",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=649D68DDB18BCE022129156049D87DDB",
+    "citekey": "mcdonaldDerivativesMarkets2013",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Investment"
+    ]
+  },
+  {
+    "id": "mishkinFinancialMarketsInstitutions2023",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          29
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Mishkin",
+        "given": "Frederic"
+      },
+      {
+        "family": "Eakins",
+        "given": "Stanley"
+      }
+    ],
+    "citation-key": "mishkinFinancialMarketsInstitutions2023",
+    "edition": "10",
+    "ISBN": "978-1-292-45954-7",
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    },
+    "publisher": "Pearson",
+    "source": "Library Genesis",
+    "title": "Financial Markets and Institutions, Global Edition",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=56931D0B320E6CCCA99B5B9ECE412D23",
+    "citekey": "mishkinFinancialMarketsInstitutions2023",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Investment"
+    ]
+  },
+  {
+    "id": "rosenbaumInvestmentBankingValuation2020",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          29
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Rosenbaum",
+        "given": "Joshua"
+      },
+      {
+        "family": "Pearl",
+        "given": "Joshua"
+      }
+    ],
+    "citation-key": "rosenbaumInvestmentBankingValuation2020",
+    "collection-title": "Wiley Finance",
+    "edition": "3",
+    "ISBN": "978-1-119-70618-2",
+    "issued": {
+      "date-parts": [
+        [
+          "2020"
+        ]
+      ]
+    },
+    "publisher": "Wiley",
+    "source": "Library Genesis",
+    "title": "Investment Banking: Valuation, LBOs, M&A, and IPOs",
+    "title-short": "Investment Banking",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=ABA122C86D16DC733744D4CAB01D3E09",
+    "citekey": "rosenbaumInvestmentBankingValuation2020",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Investment"
+    ]
+  }
+]

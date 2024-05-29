@@ -1,0 +1,17 @@
+---
+layout: base.njk
+title: BookTracker 
+---
+
+<h1>References</h1>
+<ul>
+  {% for reference in tracked-references %}
+    <li>
+      <strong>{{ reference.title }}</strong> by {{ reference.author | map(attribute='family') | join(', ') }}<br>
+      Progress: {{ reference.tracker_progress }}%<br>
+      Edition: {{ reference.edition }}<br>
+      Publisher: {{ reference.publisher }}<br>
+      <a href="{{ reference.URL }}">More Info</a>
+    </li>
+  {% endfor %}
+</ul>

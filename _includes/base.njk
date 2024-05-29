@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/css/fonts.css">
+    <link rel="stylesheet" href="/css/styles.css">
+    {% if css %}
+    <link rel="stylesheet" href="/css/{{css}}.css">
+    {% endif %}
+    <title>Jacob Walchuk's Blog</title>
+    </head>
+<body>
+  <header>
+    <a href="https://hcol.uk"><img src="/img/hcol-header.svg"></a>
+    </header>
+    <nav>
+        <ul>
+            <li><a href=/>Main</a></li>
+            <li><a href=/posts>Posts</a></li>
+            <li><a href=/bookTracker/All>BookTracker</a></li>
+            <li><a href=/contact>Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        {{ content | safe }} 
+    </main>
+    <footer>
+    made with <a href=https://orgmode.org/>org</a>, <a href=https://www.11ty.dev/>11ty</a>, and <a href=https://www.netlify.com/>netlify</a>
+    <br>2024 CC-BY-SA
+    </footer>
+</body>
+</html>

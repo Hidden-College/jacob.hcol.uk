@@ -1,0 +1,127 @@
+.trackedCollectionsList {
+    display: block;
+    border: 1px solid black;
+    list-style-type: none;
+}
+
+.trackedCollectionsList li a {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 100%;
+    border: none;
+}
+
+.trackedCollectionsList li:not(:last-child) a {
+    border-bottom: 2px dotted black;
+}
+
+.trackedCollectionsList_down a::before {
+    background-image: url('/img/arrow.svg');
+    content: "";
+    display: inline-block;
+    background-size: 1em 1em;
+    width: 1em;
+    height: 1em;
+}
+
+.trackedCollectionsList_down_subdirectory a::before {
+    background-image: url('/img/dlarrow.svg');
+    content: "";
+    display: inline-block;
+    background-size: 1em 1em;
+    background-position: 1em 0;
+    background-repeat: no-repeat;
+    width: 2em;
+    height: 1em;
+}
+
+.trackedCollectionsList_up a::before {
+    background-image: url('/img/arrow.svg');
+    content: "";
+    display: inline-block;
+    background-size: 1em 1em;
+    width: 1em;
+    height: 1em;
+    transform: scaleX(-1);
+}
+
+.trackedCollectionsList_down a:hover::before {
+    filter: invert(100%);
+}
+.trackedCollectionsList_up a:hover::before {
+    filter: invert(100%);
+}
+
+.trackedCollectionsList li a:hover {
+    transform: none;
+    box-shadow: none;
+    background-color: black;
+    border-color: white;
+    color: white;
+}
+
+
+.trackedCollectionsList li a::after {
+    border: none;
+}
+
+.trackedCollectionsListWindow {
+    padding: 2px;
+    border: 1px black solid;
+    box-shadow: 1px 1px black;
+}
+
+.trackedCollectionsListWindow h2 {
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.5em;
+    transform: scaleX(75%);
+}
+
+.trackedReferencesList {
+    list-style-type: none;
+    margin-top: 2em;
+}
+
+.trackedReference {
+    display: block;
+    width: 100%;
+    border: 1px black solid;
+    box-shadow: 1px 1px black;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+
+.trackedReferenceData {
+    width: 100%;
+}
+
+.trackedReferenceData td:last-child {
+    text-align: right;
+}
+
+.trackedISBN {
+    color: grey;
+    transform: scaleX(-50%);
+}
+
+.trackedReferenceProgressBarOuter {
+    display: block;
+    padding: 1px;
+    width: 100%;
+    border: 1px black solid;
+    margin-top: 1em;
+}
+
+.trackedReferenceProgressBarInner {
+    height: 1em;
+    background-color: black;
+    width: 0%;
+}
+
+.trackedReferencesLower {
+    text-align: right;
+}

@@ -1,0 +1,65 @@
+---
+pagination:
+  data: trackedCollections
+  alias: collection
+  size: 1
+layout: base.njk
+permalink: "bookTracker/{{collection | slug}}/index.html"
+css: bookTracker
+---
+
+{% set trackedCollections_ = trackedCollections | removeItem('All') %}
+
+{% macro drawTrackedReference(reference) %}
+<li class="trackedReference">
+  <table class="trackedReferenceData">
+    <tr>
+      <td><strong>Title:</strong> {{ reference.title }}</td>
+      <td><strong>Progress:</strong> {{ reference.tracker_progress }}%</td>
+    </tr>
+    <tr>
+      <td><strong>Author:</strong> {{ reference.author | getAuthors }}</td>
+      <td><span class="trackedISBN">{{ reference.ISBN }}</span></td>
+    </tr>
+  </table>
+  <div class="trackedReferenceProgressBarOuter">
+    <div class="trackedReferenceProgressBarInner" style="width: {{ reference.tracker_progress }}%"></div>
+  </div>
+  <div class="trackedReferencesLower">
+    {% if reference.tracker_published %}
+    <a href="/posts/{{ reference.id }}">View Notes/Summary...</a>
+    {% else %}
+    <span class="trackedNoNotes">No Notes Available</span>
+    {% endif %}
+  </div>
+</li>
+{% endmacro %}
+
+<div class="trackedCollectionsListWindow">
+  <h2>Categories</h2>
+<ul class="trackedCollectionsList">
+{% if collection.includes('/') %}
+  <li class="trackedCollectionsList_up"><a href="/bookTracker/{{ collection | getRoot | slug}}">{{ collection | getRoot }}</a> 
+{% elif collection == 'All'%}
+  {% for collection_ in trackedCollections_%}
+  <li class="{% if collection_.includes('/') %}
+	   trackedCollectionsList_down_subdirectory
+	   {% else %}
+	   trackedCollectionsList_down
+	   {% endif %}"><a href="/bookTracker/{{ collection_ | slug }}">{{ collection_ }}</a></li>
+  {% endfor %}
+{% else %}
+  <li class="trackedCollectionsList_up"><a href="/bookTracker/All">All Categories...</a></li>
+  {% for collection_ in trackedCollections_ | keepContainingString(collection) | removeItem(collection)%}
+<li class="trackedCollectionsList_down"><a href=/bookTracker/{{ collection_ | slug }}>{{ collection_ }}</a></li>
+  {% endfor %}
+{% endif %}
+</ul>
+</div>
+<ul class="trackedReferencesList">
+  {% for reference in trackedReferences %}
+    {% if (reference.collection.includes(collection) or collection == "All") %}
+  {{ drawTrackedReference(reference) }}
+  {% endif %}
+  {% endfor %}
+</ul>
