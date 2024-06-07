@@ -544,7 +544,7 @@
     "type": "book",
     "URL": "http://gen.lib.rus.ec/book/index.php?md5=5ee6306ce4baabf0e60a848103ee307c",
     "citekey": "grahamIntelligentInvestorDefinitive2003",
-    "tracker_progress": 35,
+    "tracker_progress": 54,
     "tracker_published": true,
     "collection": [
       "Grindset",
@@ -641,8 +641,53 @@
     ]
   },
   {
-    "id": "liGovernmentFinanceMoney2020a",
-    "abstract": "The traditional theory of money creation and supply has been widely questioned and criticized after the Global Financial Crisis in 2008. The existing empirical research on China’s money supply has been basically based on this traditional theoretical framework of “monetary base-money multiplier,” and ignored the important role of government finance in money creation. From the perspective of MMT, this paper investigates the evolution of the role of fiscal policy in China’s money creation, and analyzes the macroeconomic impact of the fiscal creation of money. In the past 70 years, China has experienced a planned economy regime, a fiscal dominance regime and a monetary dominance regime. And during this time the dominant mode of money creation has gradually shifted from fiscal creation to credit creation, to the extent that the old fiscal creation mode has been ignored or even disdained. However, the fiscal creation of money is still of great importance. Compared with credit creation, it helps to promote the development of real economy, reduce systemic financial risks and narrow the wealth gap. This article argues that China should increase the contribution of fiscal expansion to money creation and reduce the dependence of money growth on credit, so as to better achieve the three goals of stable growth, risk prevention and structural adjustment.",
+    "id": "kyleContinuousAuctionsInsider1985",
+    "abstract": "A dynamic model of insider trading with sequential auctions, structured to resemble a sequential equilibrium, is used to examine the informational content of prices, the liquidity characteristics of a speculative market, and the value of private information to an insider. The model has three kinds of traders: a single risk neutral insider, random noise traders, and competitive risk neutral market makers. The insider makes positive profits by exploiting his monopoly power optimally in a dynamic context, where noise trading provides camouflage which conceals his trading from market makers. As the time interval between auctions goes to zero, a limiting model of continuous trading is obtained. In this equilibrium, prices follow Brownian motion, the depth of the market is constant over time, and all private information is incorporated into prices by the end of trading.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          6,
+          7
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kyle",
+        "given": "Albert S."
+      }
+    ],
+    "citation-key": "kyleContinuousAuctionsInsider1985",
+    "container-title": "Econometrica",
+    "DOI": "10.2307/1913210",
+    "ISSN": "0012-9682",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          "1985"
+        ]
+      ]
+    },
+    "page": "1315-1335",
+    "publisher": "[Wiley, Econometric Society]",
+    "source": "JSTOR",
+    "title": "Continuous Auctions and Insider Trading",
+    "type": "article-journal",
+    "URL": "https://www.jstor.org/stable/1913210",
+    "volume": "53",
+    "citekey": "kyleContinuousAuctionsInsider1985",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Investment"
+    ]
+  },
+  {
+    "id": "liGovernmentFinanceMoney2020",
+    "abstract": "The traditional theory of money creation and supply has been widely questioned and criticized after the Global Financial Crisis in 2008. The existing empirical research on China’s money supply has ...",
     "accessed": {
       "date-parts": [
         [
@@ -652,6 +697,7 @@
         ]
       ]
     },
+    "archive_location": "world",
     "author": [
       {
         "family": "Li",
@@ -666,11 +712,9 @@
         "given": "Hongmei"
       }
     ],
-    "citation-key": "liGovernmentFinanceMoney2020a",
+    "citation-key": "liGovernmentFinanceMoney2020",
     "container-title": "The Chinese Economy",
-    "DOI": "10.1080/10971475.2020.1728481",
     "ISSN": "1097-1475",
-    "issue": "4",
     "issued": {
       "date-parts": [
         [
@@ -680,17 +724,17 @@
         ]
       ]
     },
-    "page": "329–341",
+    "language": "EN",
+    "license": "© 2020 Taylor & Francis Group, LLC",
     "publisher": "Routledge",
-    "source": "Taylor and Francis+NEJM",
+    "source": "www.tandfonline.com",
     "title": "Government Finance and Money Creation in China: An MMT Perspective",
     "title-short": "Government Finance and Money Creation in China",
     "type": "article-journal",
-    "URL": "https://doi.org/10.1080/10971475.2020.1728481",
-    "volume": "53",
-    "citekey": "liGovernmentFinanceMoney2020a",
-    "tracker_progress": 100,
-    "tracker_published": true,
+    "URL": "https://www.tandfonline.com/doi/abs/10.1080/10971475.2020.1728481",
+    "citekey": "liGovernmentFinanceMoney2020",
+    "tracker_progress": 0,
+    "tracker_published": false,
     "collection": [
       "Grindset",
       "Grindset/Investment"
