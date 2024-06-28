@@ -67,7 +67,7 @@
     "type": "book",
     "volume": "1",
     "citekey": "aristotleNicomacheanEthics1987",
-    "tracker_progress": 26,
+    "tracker_progress": 31,
     "tracker_published": true,
     "collection": [
       "Philosophy Personal Reading"
@@ -115,6 +115,50 @@
     "volume": "1",
     "citekey": "aristotleOrganon1938",
     "tracker_progress": 21,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "byerlyParadiseUnderstoodNew2017",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          6,
+          13
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Byerly",
+        "given": "T. Ryan"
+      },
+      {
+        "family": "Silverman",
+        "given": "Eric J."
+      }
+    ],
+    "citation-key": "byerlyParadiseUnderstoodNew2017",
+    "edition": "1",
+    "ISBN": "978-0-19-879430-1",
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press",
+    "source": "Library Genesis",
+    "title": "Paradise Understood: New Philosophical Essays about Heaven",
+    "title-short": "Paradise Understood",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=cf474b9348da3e2c243a40d81cd556bc",
+    "citekey": "byerlyParadiseUnderstoodNew2017",
+    "tracker_progress": 100,
     "tracker_published": false,
     "collection": [
       "Philosophy Personal Reading"
@@ -507,6 +551,46 @@
     ]
   },
   {
+    "id": "fauxNumberGoCrypto2023",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          6,
+          18
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Faux",
+        "given": "Zeke"
+      }
+    ],
+    "citation-key": "fauxNumberGoCrypto2023",
+    "ISBN": "978-0-593-44382-8",
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    },
+    "publisher": "Crown",
+    "source": "Library Genesis",
+    "title": "Number Go Up: Inside Crypto's Wild Rise and Staggering Fall",
+    "title-short": "Number Go Up",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=DF01413818006E8E225853322D316F4A",
+    "citekey": "fauxNumberGoCrypto2023",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Casual"
+    ]
+  },
+  {
     "id": "grahamIntelligentInvestorDefinitive2003",
     "accessed": {
       "date-parts": [
@@ -544,7 +628,7 @@
     "type": "book",
     "URL": "http://gen.lib.rus.ec/book/index.php?md5=5ee6306ce4baabf0e60a848103ee307c",
     "citekey": "grahamIntelligentInvestorDefinitive2003",
-    "tracker_progress": 54,
+    "tracker_progress": 64,
     "tracker_published": true,
     "collection": [
       "Grindset",
@@ -641,6 +725,47 @@
     ]
   },
   {
+    "id": "knaflicStorytellingDataData2015",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          6,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Knaflic",
+        "given": "Cole Nussbaumer"
+      }
+    ],
+    "citation-key": "knaflicStorytellingDataData2015",
+    "edition": "1",
+    "ISBN": "978-1-119-00225-3",
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    },
+    "publisher": "Wiley",
+    "source": "Library Genesis",
+    "title": "Storytelling with Data: A Data Visualization Guide for Business Professionals",
+    "title-short": "Storytelling with Data",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=501cea7f598b99bbe8f412abe07100e0",
+    "citekey": "knaflicStorytellingDataData2015",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Investment"
+    ]
+  },
+  {
     "id": "kyleContinuousAuctionsInsider1985",
     "abstract": "A dynamic model of insider trading with sequential auctions, structured to resemble a sequential equilibrium, is used to examine the informational content of prices, the liquidity characteristics of a speculative market, and the value of private information to an insider. The model has three kinds of traders: a single risk neutral insider, random noise traders, and competitive risk neutral market makers. The insider makes positive profits by exploiting his monopoly power optimally in a dynamic context, where noise trading provides camouflage which conceals his trading from market makers. As the time interval between auctions goes to zero, a limiting model of continuous trading is obtained. In this equilibrium, prices follow Brownian motion, the depth of the market is constant over time, and all private information is incorporated into prices by the end of trading.",
     "accessed": {
@@ -683,6 +808,46 @@
     "collection": [
       "Grindset",
       "Grindset/Investment"
+    ]
+  },
+  {
+    "id": "lewisBigShortDoomsday2010",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          6,
+          10
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "Michael"
+      }
+    ],
+    "citation-key": "lewisBigShortDoomsday2010",
+    "ISBN": "978-0-393-07223-5",
+    "issued": {
+      "date-parts": [
+        [
+          "2010"
+        ]
+      ]
+    },
+    "publisher": "W.W. Norton & Company",
+    "source": "Library Genesis",
+    "title": "The Big Short: Inside the Doomsday Machine",
+    "title-short": "The Big Short",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=7d15690b822e6dc7d79f01fee7ed8b5e",
+    "citekey": "lewisBigShortDoomsday2010",
+    "tracker_progress": 100,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Casual"
     ]
   },
   {
@@ -869,6 +1034,116 @@
     "collection": [
       "Grindset",
       "Grindset/Investment"
+    ]
+  },
+  {
+    "id": "sorkinTooBigFail2009",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          6,
+          18
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Sorkin",
+        "given": "Andrew Ross"
+      }
+    ],
+    "citation-key": "sorkinTooBigFail2009",
+    "ISBN": "978-0-670-02125-3",
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    },
+    "publisher": "Viking Adult",
+    "source": "Library Genesis",
+    "title": "Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System—and Themselves",
+    "title-short": "Too Big to Fail",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=d16f358e3e46f7777a2c0f0c16d35e30",
+    "citekey": "sorkinTooBigFail2009",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Casual"
+    ]
+  },
+  {
+    "id": "tettFoolGoldHow2009",
+    "author": [
+      {
+        "family": "Tett",
+        "given": "Gillian"
+      }
+    ],
+    "call-number": "HG6024.U6 T48 2009",
+    "citation-key": "tettFoolGoldHow2009",
+    "edition": "Free Press hardcover ed",
+    "event-place": "New York",
+    "ISBN": "978-1-4165-9857-2 978-1-4391-0075-2",
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    },
+    "number-of-pages": "293",
+    "publisher": "Free Press",
+    "publisher-place": "New York",
+    "source": "Library of Congress ISBN",
+    "title": "Fool's gold: how the bold dream of a small tribe at J.P. Morgan was corrupted by Wall Street greed and unleashed a catastrophe",
+    "title-short": "Fool's gold",
+    "type": "book",
+    "citekey": "tettFoolGoldHow2009",
+    "tracker_progress": 100,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Casual"
+    ]
+  },
+  {
+    "id": "winterSleepSolutionWhy2017a",
+    "author": [
+      {
+        "family": "Winter",
+        "given": "W. Chris"
+      }
+    ],
+    "call-number": "RA786 .W56 2017",
+    "citation-key": "winterSleepSolutionWhy2017a",
+    "edition": "First edition",
+    "event-place": "New York",
+    "ISBN": "978-0-399-58360-5",
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    },
+    "number-of-pages": "262",
+    "publisher": "New American Library",
+    "publisher-place": "New York",
+    "source": "Library of Congress ISBN",
+    "title": "The sleep solution: why your sleep is broken and how to fix it",
+    "title-short": "The sleep solution",
+    "type": "book",
+    "citekey": "winterSleepSolutionWhy2017a",
+    "tracker_progress": 100,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Casual"
     ]
   }
 ]

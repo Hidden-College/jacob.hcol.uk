@@ -42,20 +42,24 @@ css: bookTracker
   <li class="trackedCollectionsList_up"><a href="/bookTracker/{{ collection | getRoot | slug}}">{{ collection | getRoot }}</a> 
 {% elif collection == 'All'%}
   {% for collection_ in trackedCollections_%}
-  <li class="{% if collection_.includes('/') %}
+  <li class="
+      {% if collection_.includes('/') %}
 	   trackedCollectionsList_down_subdirectory
 	   {% else %}
 	   trackedCollectionsList_down
-	   {% endif %}"><a href="/bookTracker/{{ collection_ | slug }}">{{ collection_ }}</a></li>
+	   {% endif %}
+	   ">
+	   <a href="/bookTracker/{{ collection_ | slug }}">{{ collection_ }}</a></li>
   {% endfor %}
 {% else %}
   <li class="trackedCollectionsList_up"><a href="/bookTracker/All">All Categories...</a></li>
-  {% for collection_ in trackedCollections_ | keepContainingString(collection) | removeItem(collection)%}
-<li class="trackedCollectionsList_down"><a href=/bookTracker/{{ collection_ | slug }}>{{ collection_ }}</a></li>
+  {% for collection_ in trackedCollections_ | newArrayWithItemsContainingString(collection) | removeItem(collection) %}
+     <li class="trackedCollectionsList_down"><a href=/bookTracker/{{ collection_ | slug }}>{{ collection_ }}</a></li>
   {% endfor %}
 {% endif %}
 </ul>
 </div>
+
 <ul class="trackedReferencesList">
   {% for reference in trackedReferences %}
     {% if (reference.collection.includes(collection) or collection == "All") %}

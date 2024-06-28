@@ -15,7 +15,9 @@ export default function (eleventyConfig) {
 	  return array.filter(item => item !== itemToRemove);
         });
 
-  eleventyConfig.addFilter('keepContainingString', function(array, string) {
+  eleventyConfig.addFilter('newArrayWithItemsContainingString', function(array, string) {
+    let newArr =  array.filter(item => item.includes(string));
+    console.log(newArr);
     return array.filter(item => item.includes(string));
   });
 
