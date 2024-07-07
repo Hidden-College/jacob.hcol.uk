@@ -67,7 +67,7 @@
     "type": "book",
     "volume": "1",
     "citekey": "aristotleNicomacheanEthics1987",
-    "tracker_progress": 31,
+    "tracker_progress": 48,
     "tracker_published": true,
     "collection": [
       "Philosophy Personal Reading"
@@ -191,7 +191,7 @@
     "volume": "1",
     "citekey": "EdmundHusserlDorionCairnson128",
     "tracker_progress": 17,
-    "tracker_published": false,
+    "tracker_published": true,
     "collection": [
       "Philosophy Personal Reading"
     ]
@@ -503,6 +503,46 @@
     ]
   },
   {
+    "id": "bauerSwissBankingAnalytical1998",
+    "abstract": "In this volume the authors provide a survey and an examination of the roots of Swiss banking in order to explain the phenomenal success of Switzerland's banks. Contrary to the conventional wisdom, Swiss banking did not originate with the exiled Hugenot bankers of Geneva. Centuries before Louis XIV, Basle had become a principal banking centre although it was not yet part of the Swiss Confederation. From historical beginnings to contemporary comparative analysis, the book offers an authoritative explanation and analysis of the success of the Swiss banks",
+    "author": [
+      {
+        "family": "Bauer",
+        "given": "Hans"
+      },
+      {
+        "family": "Blackman",
+        "given": "Warren J."
+      }
+    ],
+    "citation-key": "bauerSwissBankingAnalytical1998",
+    "event-place": "New York, Secaucus",
+    "ISBN": "978-1-349-26737-8",
+    "issued": {
+      "date-parts": [
+        [
+          "1998",
+          11
+        ]
+      ]
+    },
+    "language": "eng",
+    "note": "OCLC: 1004389088",
+    "publisher": "Palgrave Macmillan Springer [distributor]",
+    "publisher-place": "New York, Secaucus",
+    "source": "Open WorldCat",
+    "title": "Swiss Banking: An Analytical History",
+    "title-short": "Swiss Banking",
+    "type": "book",
+    "citekey": "bauerSwissBankingAnalytical1998",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Casual"
+    ]
+  },
+  {
     "id": "berkFundamentalsCorporateFinance2022",
     "accessed": {
       "date-parts": [
@@ -725,6 +765,46 @@
     ]
   },
   {
+    "id": "jiangRejectionProofHow2015",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          7,
+          5
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Jiang",
+        "given": "Jia"
+      }
+    ],
+    "citation-key": "jiangRejectionProofHow2015",
+    "ISBN": "978-0-8041-4138-3",
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    },
+    "publisher": "Harmony",
+    "source": "Library Genesis",
+    "title": "Rejection Proof: How I Beat Fear and Became Invincible Through 100 Days of Rejection",
+    "title-short": "Rejection Proof",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=b64f4e06683d177a99626c82df4a786f",
+    "citekey": "jiangRejectionProofHow2015",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Casual"
+    ]
+  },
+  {
     "id": "knaflicStorytellingDataData2015",
     "accessed": {
       "date-parts": [
@@ -762,7 +842,7 @@
     "tracker_published": false,
     "collection": [
       "Grindset",
-      "Grindset/Investment"
+      "Grindset/Casual"
     ]
   },
   {
@@ -806,8 +886,7 @@
     "tracker_progress": 0,
     "tracker_published": false,
     "collection": [
-      "Grindset",
-      "Grindset/Investment"
+      "Grindset"
     ]
   },
   {
@@ -901,8 +980,7 @@
     "tracker_progress": 0,
     "tracker_published": false,
     "collection": [
-      "Grindset",
-      "Grindset/Investment"
+      "Grindset"
     ]
   },
   {
