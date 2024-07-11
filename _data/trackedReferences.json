@@ -67,7 +67,7 @@
     "type": "book",
     "volume": "1",
     "citekey": "aristotleNicomacheanEthics1987",
-    "tracker_progress": 48,
+    "tracker_progress": 64,
     "tracker_published": true,
     "collection": [
       "Philosophy Personal Reading"
@@ -192,6 +192,57 @@
     "citekey": "EdmundHusserlDorionCairnson128",
     "tracker_progress": 17,
     "tracker_published": true,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
+    "id": "epictetusCompleteWorksHandbook2022",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          7,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Epictetus",
+        "given": ""
+      }
+    ],
+    "citation-key": "epictetusCompleteWorksHandbook2022",
+    "editor": [
+      {
+        "family": "Waterfield",
+        "given": "Robin"
+      }
+    ],
+    "ISBN": "978-0-226-76950-9",
+    "issued": {
+      "date-parts": [
+        [
+          "2022"
+        ]
+      ]
+    },
+    "publisher": "University of Chicago Press",
+    "source": "Library Genesis",
+    "title": "The Complete Works: Handbook, Discourses, and Fragments",
+    "title-short": "The Complete Works",
+    "translator": [
+      {
+        "family": "Waterfield",
+        "given": "Robin"
+      }
+    ],
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=893CAD34BA1982F849548BB8617DBDC3",
+    "citekey": "epictetusCompleteWorksHandbook2022",
+    "tracker_progress": 0,
+    "tracker_published": false,
     "collection": [
       "Philosophy Personal Reading"
     ]
@@ -757,6 +808,47 @@
     "type": "book",
     "URL": "http://gen.lib.rus.ec/book/index.php?md5=68BB8FE9D37D09DBFFBA9FC002423AAA",
     "citekey": "hullOptionsFuturesOther2021",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Grindset",
+      "Grindset/Investment"
+    ]
+  },
+  {
+    "id": "ittelsonFinancialStatementsStepbyStep2020",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          7,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Ittelson",
+        "given": "Thomas"
+      }
+    ],
+    "citation-key": "ittelsonFinancialStatementsStepbyStep2020",
+    "edition": "3rd Revised",
+    "ISBN": "978-1-63265-175-4",
+    "issued": {
+      "date-parts": [
+        [
+          "2020"
+        ]
+      ]
+    },
+    "publisher": "Career Press",
+    "source": "Library Genesis",
+    "title": "Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports",
+    "title-short": "Financial Statements",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=271D817FB29E1D694B2B1EFB364AA934",
+    "citekey": "ittelsonFinancialStatementsStepbyStep2020",
     "tracker_progress": 0,
     "tracker_published": false,
     "collection": [
