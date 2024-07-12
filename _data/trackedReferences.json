@@ -121,6 +121,46 @@
     ]
   },
   {
+    "id": "brentanoOriginOurKnowledge2009",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          7,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Brentano",
+        "given": "Franz"
+      }
+    ],
+    "citation-key": "brentanoOriginOurKnowledge2009",
+    "collection-title": "Routledge Revivals",
+    "edition": "1",
+    "ISBN": "978-0-415-55739-9",
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    },
+    "publisher": "Routledge",
+    "source": "Library Genesis",
+    "title": "The Origin of Our Knowledge of Right and Wrong",
+    "type": "book",
+    "URL": "http://gen.lib.rus.ec/book/index.php?md5=ed27e9c454c0dbb5dac529e86422a94f",
+    "citekey": "brentanoOriginOurKnowledge2009",
+    "tracker_progress": 0,
+    "tracker_published": false,
+    "collection": [
+      "Philosophy Personal Reading"
+    ]
+  },
+  {
     "id": "byerlyParadiseUnderstoodNew2017",
     "accessed": {
       "date-parts": [
@@ -586,7 +626,7 @@
     "title-short": "Swiss Banking",
     "type": "book",
     "citekey": "bauerSwissBankingAnalytical1998",
-    "tracker_progress": 39,
+    "tracker_progress": 42,
     "tracker_published": false,
     "collection": [
       "Grindset",
